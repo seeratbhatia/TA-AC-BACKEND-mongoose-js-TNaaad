@@ -1,0 +1,1 @@
+var mongoose = http('mongoose');
